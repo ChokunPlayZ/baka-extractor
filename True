@@ -1,0 +1,485 @@
+[Script Info]
+Title: English (US)
+Original Translation: 
+Original Editing: 
+Original Timing: 
+Synch Point: 
+Script Updated By: 
+Update Details: 
+ScriptType: v4.00+
+Collisions: Normal
+PlayResX: 640
+PlayResY: 360
+WrapStyle: 0
+ScaledBorderAndShadow: yes
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Roboto Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1.3,0,2,20,20,23,1
+Style: Default - Top,Roboto Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1.3,0,8,20,20,23,1
+Style: Italics,Roboto Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,-1,0,0,100,100,0,0,1,1.3,0,2,20,20,23,1
+Style: Italics Top,Roboto Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,-1,0,0,100,100,0,0,1,1.3,0,8,20,20,23,1
+Style: Flashback,Roboto Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1.3,0,2,20,20,23,1
+Style: Flashback - Top,Roboto Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1.3,0,8,20,20,23,1
+Style: Flashback Italics,Roboto Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,-1,0,0,100,100,0,0,1,1.3,0,2,20,20,23,1
+Style: Flashback Italics - Top,Roboto Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,-1,0,0,100,100,0,0,1,1.3,0,8,20,20,23,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:00.93,0:00:02.92,Italics,,0,0,0,,(Isn't that maybe how love's defined?)
+Dialogue: 0,0:00:02.92,0:00:04.65,Italics,,0,0,0,,Wow! A gift for you!
+Dialogue: 0,0:00:04.65,0:00:06.52,Italics,,0,0,0,,(So, isn't that true love defined?)
+Dialogue: 0,0:00:11.93,0:00:13.71,Italics,,0,0,0,,Nothing happening,
+Dialogue: 0,0:00:13.71,0:00:15.91,Italics,,0,0,0,,every day feels the same
+Dialogue: 0,0:00:15.91,0:00:17.32,Italics,,0,0,0,,Over and over, just
+Dialogue: 0,0:00:17.32,0:00:19.40,Italics,,0,0,0,,waiting for time to pass
+Dialogue: 0,0:00:19.40,0:00:21.42,Italics,,0,0,0,,When I'm with you,
+Dialogue: 0,0:00:21.42,0:00:22.62,Italics,,0,0,0,,I can feel
+Dialogue: 0,0:00:22.62,0:00:24.75,Italics,,0,0,0,,something so special,
+Dialogue: 0,0:00:24.75,0:00:27.88,Italics,,0,0,0,,and I want to make it real
+Dialogue: 0,0:00:27.88,0:00:30.38,Italics,,0,0,0,,Look, I'm really grateful every day, but you know
+Dialogue: 0,0:00:30.38,0:00:32.27,Italics,,0,0,0,,I feel like I'm not doing enough in return
+Dialogue: 0,0:00:32.27,0:00:33.92,Italics,,0,0,0,,"I was just feeling like it.
+Dialogue: 0,0:00:33.92,0:00:35.72,Italics,,0,0,0,,No real meaning or reason why."
+Dialogue: 0,0:00:35.72,0:00:40.11,Italics,,0,0,0,,Stop complaining and just take it already!
+Dialogue: 0,0:00:39.08,0:00:40.96,Italics,,0,0,0,,(Isn't that maybe how love's defined?)
+Dialogue: 0,0:00:40.96,0:00:43.52,Italics,,0,0,0,,Yeah, there's no way that's how it goes!
+Dialogue: 0,0:00:42.68,0:00:44.32,Italics,,0,0,0,,(So, isn't that true love defined?)
+Dialogue: 0,0:00:44.32,0:00:46.36,Italics,,0,0,0,,Whoa oh oh oh oh
+Dialogue: 0,0:00:46.36,0:00:48.81,Italics,,0,0,0,,An angel just landed
+Dialogue: 0,0:00:48.81,0:00:50.70,Italics,,0,0,0,,Right in front of me
+Dialogue: 0,0:00:50.70,0:00:52.32,Italics,,0,0,0,,With a smile that looked
+Dialogue: 0,0:00:52.32,0:00:53.99,Italics,,0,0,0,,Like her wings spreading open
+Dialogue: 0,0:00:53.99,0:00:55.95,Italics,,0,0,0,,Hey, that's against all the rules
+Dialogue: 0,0:00:55.95,0:00:57.36,Italics,,0,0,0,,You look so happy
+Dialogue: 0,0:00:57.36,0:00:59.29,Italics,,0,0,0,,Wipe off that look
+Dialogue: 0,0:00:59.29,0:01:01.18,Italics,,0,0,0,,Before my mind goes blank
+Dialogue: 0,0:01:01.18,0:01:03.02,Italics,,0,0,0,,If you keep this up,
+Dialogue: 0,0:01:03.02,0:01:05.64,Italics,,0,0,0,,You're gonna spoil me rotten
+Dialogue: 0,0:01:06.46,0:01:09.76,Italics,,0,0,0,,Come on, you gotta do something about this
+Dialogue: 0,0:01:08.22,0:01:10.48,Italics,,0,0,0,,So, let's get started
+Dialogue: 0,0:01:10.48,0:01:11.61,Italics,,0,0,0,,I want to know
+Dialogue: 0,0:01:11.61,0:01:13.64,Italics,,0,0,0,,A lot more about
+Dialogue: 0,0:01:13.64,0:01:15.68,Italics,,0,0,0,,The world you live in
+Dialogue: 0,0:01:15.68,0:01:17.88,Italics,,0,0,0,,So, let's get started
+Dialogue: 0,0:01:17.88,0:01:18.91,Italics,,0,0,0,,I want to laugh
+Dialogue: 0,0:01:18.91,0:01:20.89,Italics,,0,0,0,,A lot more with you
+Dialogue: 0,0:01:20.89,0:01:23.05,Italics,,0,0,0,,In the world you live in
+Dialogue: 0,0:01:22.35,0:01:26.64,Default,text,0,0,0,,{\fad(2925,0)\bord0\fs30\c&H00BCD2&\fsp2\fnTimes New Roman\shad0\pos(320,20)\an8}The Angel Next Door\N{\c&H00010C&}Spoils Me Rotten
+Dialogue: 0,0:01:23.05,0:01:25.02,Italics,,0,0,0,,I want to know more
+Dialogue: 0,0:01:25.02,0:01:27.69,Italics,,0,0,0,,I want to laugh more
+Dialogue: 0,0:01:32.19,0:01:34.80,Default,Amane,0,0,0,,Golden Week is coming up soon.
+Dialogue: 0,0:01:34.80,0:01:37.11,Default,Mahiru,0,0,0,,And we get another long vacation, huh?
+Dialogue: 0,0:01:37.11,0:01:39.04,Default,Amane,0,0,0,,You don't want one?
+Dialogue: 0,0:01:39.04,0:01:42.24,Default,Mahiru,0,0,0,,It's more that I just don't know \Nhow to spend my time.
+Dialogue: 0,0:01:42.24,0:01:44.58,Default,Amane,0,0,0,,Weren't you going to teach Chitose to cook?
+Dialogue: 0,0:01:44.97,0:01:47.46,Default,Mahiru,0,0,0,,That's about all I had planned.
+Dialogue: 0,0:01:47.85,0:01:52.62,Default,Amane,0,0,0,,Yeah, I guess it's nice to get a break, \Nbut tough when you have no plans.
+Dialogue: 0,0:01:52.62,0:01:54.97,Default,Mahiru,0,0,0,,Will you be free, Amane-kun?
+Dialogue: 0,0:01:54.97,0:01:55.97,Default,Amane,0,0,0,,Yeah, I'm free.
+Dialogue: 0,0:01:58.23,0:01:59.45,Default,Amane,0,0,0,,What's on your mind?
+Dialogue: 0,0:02:03.68,0:02:04.89,Default,text,0,0,0,,{\an8\b1\bord2\shad0\fnVerdana\fs18\c&H0B151B&\3c&HD4EEFB&\fad(652,1)\frz21.39\pos(269,91)}Do-Anything-You-Want
+Dialogue: 0,0:02:03.68,0:02:04.89,Default,text,0,0,0,,{\an8\b1\bord2\shad0\fnVerdana\fs22\c&H0B151B&\3c&HD4EEFB&\fad(652,1)\pos(390,198)\frz23.5}Ticket
+Dialogue: 0,0:02:04.89,0:02:07.18,Default,Mahiru,0,0,0,,May I use this?
+Dialogue: 0,0:02:09.06,0:02:11.15,Default,Amane,0,0,0,,You may ask for whatever you please.
+Dialogue: 0,0:02:11.66,0:02:15.90,Default,Mahiru,0,0,0,,I would like you to give me \None day during Golden Week.
+Dialogue: 0,0:02:15.90,0:02:20.91,Default,text,0,0,0,,{\an7\c&H000000&\bord2\shad0\3c&HFEFFFD&\fs27\pos(329,200)}Going Out with {\c&H3DA9B4&}the Angel
+Dialogue: 0,0:02:21.72,0:02:27.33,Default,Mahiru,0,0,0,,During Golden Week, I want to go \Nshopping with you and hang out and stuff.
+Dialogue: 0,0:02:29.97,0:02:31.29,Default,Mahiru,0,0,0,,Isn't that allowed?
+Dialogue: 0,0:02:31.74,0:02:37.01,Default,Amane,0,0,0,,Yeah, but you don't need to use that. \NI'm happy to go shopping with you anytime.
+Dialogue: 0,0:02:37.39,0:02:41.39,Default,Mahiru,0,0,0,,I'll use it. And you'll have to do \Nwhatever I ask that day.
+Dialogue: 0,0:02:43.64,0:02:49.35,Default,Amane,0,0,0,,If you put it that way, fine with me. \NBut what do you want me to do?
+Dialogue: 0,0:02:48.27,0:02:49.48,Default,text,0,0,0,,{\an8\b1\bord2\shad0\fnVerdana\fs18\c&H0B151B&\3c&HD4EEFB&\frz21.39\pos(269,91)}Do-Anything-You-Want
+Dialogue: 0,0:02:48.27,0:02:49.48,Default,text,0,0,0,,{\an8\b1\bord2\shad0\fnVerdana\fs22\c&H0B151B&\3c&HD4EEFB&\pos(390,198)\frz23.5}Ticket
+Dialogue: 0,0:02:51.09,0:02:52.98,Default,Mahiru,0,0,0,,C-Carry my bags.
+Dialogue: 0,0:02:53.86,0:02:55.92,Default,Amane,0,0,0,,Sure, sure, as you wish.
+Dialogue: 0,0:02:56.65,0:02:58.33,Default,Amane,0,0,0,,And where do you want to go?
+Dialogue: 0,0:03:00.26,0:03:02.78,Default,Mahiru,0,0,0,,I haven't decided that yet.
+Dialogue: 0,0:03:03.16,0:03:04.89,Default,Amane,0,0,0,,You haven't even decided?
+Dialogue: 0,0:03:05.48,0:03:09.71,Default,Mahiru,0,0,0,,Well, I don't know what kind of place \Nyou'd like to go to.
+Dialogue: 0,0:03:09.71,0:03:10.75,Default,Amane,0,0,0,,Huh? Me?
+Dialogue: 0,0:03:11.21,0:03:16.47,Default,Mahiru,0,0,0,,If we're going out together, I want to go \Nsomewhere we can both have fun.
+Dialogue: 0,0:03:21.25,0:03:22.38,Default,Mahiru,0,0,0,,Is that all right?
+Dialogue: 0,0:03:31.73,0:03:33.44,Default,Amane,0,0,0,,Then there is one place.
+Dialogue: 0,0:03:34.08,0:03:35.02,Default,Mahiru,0,0,0,,Where is it?
+Dialogue: 0,0:03:35.48,0:03:36.40,Default,Amane,0,0,0,,You'd better not laugh.
+Dialogue: 0,0:03:36.80,0:03:37.98,Default,Mahiru,0,0,0,,I will not laugh.
+Dialogue: 0,0:03:38.51,0:03:39.61,Default,Amane,0,0,0,,A cat café.
+Dialogue: 0,0:03:39.61,0:03:40.44,Default,Mahiru,0,0,0,,Huh?
+Dialogue: 0,0:03:40.44,0:03:43.94,Default,Amane,0,0,0,,I thought... it won't be \Nembarrassing if we go together.
+Dialogue: 0,0:03:45.09,0:03:45.99,Default,Amane,0,0,0,,No good?
+Dialogue: 0,0:03:46.87,0:03:49.95,Default,Mahiru,0,0,0,,No, it's fine. All right, then.
+Dialogue: 0,0:03:50.51,0:03:52.16,Default,Mahiru,0,0,0,,Let's go there together.
+Dialogue: 0,0:03:52.16,0:03:52.95,Default,Amane,0,0,0,,Yeah.
+Dialogue: 0,0:03:54.39,0:03:55.63,Default,Amane,0,0,0,,What about after that?
+Dialogue: 0,0:03:56.27,0:03:59.56,Default,Mahiru,0,0,0,,After that, we can go shopping.
+Dialogue: 0,0:03:59.56,0:04:02.83,Default,Mahiru,0,0,0,,Oh, I also want to go to an arcade.
+Dialogue: 0,0:04:02.83,0:04:05.47,Default,Mahiru,0,0,0,,I've never been to one of those before.
+Dialogue: 0,0:04:05.96,0:04:07.35,Default,Amane,0,0,0,,Let's do all of that.
+Dialogue: 0,0:04:09.15,0:04:10.76,Default,Mahiru,0,0,0,,It sounds like fun.
+Dialogue: 0,0:04:12.47,0:04:15.10,Default,Mahiru,0,0,0,,I can't wait for break to start.
+Dialogue: 0,0:04:16.56,0:04:18.06,Default,Amane,0,0,0,,Me, neither.
+Dialogue: 0,0:04:18.86,0:04:20.64,Default,Chitose,0,0,0,,Yay!
+Dialogue: 0,0:04:20.64,0:04:24.12,Default,Chitose,0,0,0,,The first lesson of Mahirun's cooking school!
+Dialogue: 0,0:04:24.12,0:04:28.70,Default,Chitose,0,0,0,,Of course, we've invited Mahiru Shiina \Nto lead us as instructor.
+Dialogue: 0,0:04:28.70,0:04:31.45,Default,Amane,0,0,0,,{\i1}You{\i0} were the one invited here, you know.
+Dialogue: 0,0:04:31.77,0:04:33.25,Default,Chitose,0,0,0,,And to serve as our poison tes—
+Dialogue: 0,0:04:33.25,0:04:34.32,Default,Chitose,0,0,0,,I mean, as our guest,
+Dialogue: 0,0:04:34.32,0:04:38.14,Default,Chitose,0,0,0,,we've invited extremely \Npicky eater Amane Fujimiya.
+Dialogue: 0,0:04:38.14,0:04:41.46,Default,Amane,0,0,0,,Would you cool it? And this is {\i1}my{\i0} home.
+Dialogue: 0,0:04:41.79,0:04:44.03,Default,Chitose,0,0,0,,Aw, you're no fun.
+Dialogue: 0,0:04:44.03,0:04:45.84,Default,Mahiru,0,0,0,,Sorry to bother you so early.
+Dialogue: 0,0:04:46.29,0:04:49.91,Default,Amane,0,0,0,,It's fine, it's fine. \NAnd you're making me breakfast.
+Dialogue: 0,0:04:49.91,0:04:51.60,Default,Amane,0,0,0,,But that aside...
+Dialogue: 0,0:04:51.93,0:04:52.73,Default,Chitose,0,0,0,,Hmm?
+Dialogue: 0,0:04:53.15,0:04:55.98,Default,Amane,0,0,0,,Make sure Chitose doesn't spike \Nthe recipe with anything weird.
+Dialogue: 0,0:04:55.98,0:04:58.08,Default,Chitose,0,0,0,,You aren't very trusting.
+Dialogue: 0,0:04:58.08,0:05:00.97,Default,Amane,0,0,0,,Oh, yeah? What about the crime \Nyou committed on Valentine's Day?!
+Dialogue: 0,0:05:01.99,0:05:04.60,Default,Chitose,0,0,0,,Oh, come on. That was totally just a prank!
+Dialogue: 0,0:05:04.60,0:05:06.91,Default,Chitose,0,0,0,,If I cook normally, it'll be safe. Maybe.
+Dialogue: 0,0:05:08.07,0:05:11.07,Default,Amane,0,0,0,,That "maybe" is exactly what bothers me.
+Dialogue: 0,0:05:11.07,0:05:13.70,Default,Amane,0,0,0,,Please, just make me something edible.
+Dialogue: 0,0:05:13.70,0:05:16.17,Default,Chitose,0,0,0,,No problem! I got this!
+Dialogue: 0,0:05:17.37,0:05:19.45,Default,Mahiru,0,0,0,,Shall we get started, then?
+Dialogue: 0,0:05:19.45,0:05:22.21,Default,Chitose,0,0,0,,Yeah! Where should we start?
+Dialogue: 0,0:05:22.81,0:05:24.68,Default,Mahiru,0,0,0,,Why don't we peel the shrimp?
+Dialogue: 0,0:05:24.68,0:05:25.67,Default,Chitose,0,0,0,,Okay!
+Dialogue: 0,0:05:26.35,0:05:31.69,Default,Mahiru,0,0,0,,The easiest way to peel a shrimp is to \Nhold it in both hands with the back up,
+Dialogue: 0,0:05:31.69,0:05:35.81,Default,Mahiru,0,0,0,,then put your index fingers between\N the third and fourth segments
+Dialogue: 0,0:05:35.81,0:05:38.16,Default,Mahiru,0,0,0,,and pull to the sides.
+Dialogue: 0,0:05:38.16,0:05:41.27,Default,Chitose,0,0,0,,{\fad(1,323)}Oh, wow! It comes off so easy!
+Dialogue: 0,0:05:45.52,0:05:49.07,Default,Mahiru,0,0,0,,U-Um, that tickles a little.
+Dialogue: 0,0:05:52.15,0:05:53.34,Default,Amane,0,0,0,,Mahiru?
+Dialogue: 0,0:05:53.34,0:05:54.38,Default,Mahiru,0,0,0,,Yes.
+Dialogue: 0,0:05:54.38,0:05:55.42,Default,Amane,0,0,0,,Good morning.
+Dialogue: 0,0:05:55.42,0:05:57.44,Default,Mahiru,0,0,0,,And good morning to you.
+Dialogue: 0,0:05:57.44,0:06:00.43,Default,Mahiru,0,0,0,,It's a little late in the day \Nfor that, though.
+Dialogue: 0,0:06:00.43,0:06:01.42,Default,Amane,0,0,0,,Huh?
+Dialogue: 0,0:06:01.42,0:06:02.54,Default,Amane,0,0,0,,Ah!
+Dialogue: 0,0:06:02.80,0:06:05.79,Default,Mahiru,0,0,0,,When I sat down, you started leaning on me.
+Dialogue: 0,0:06:05.79,0:06:08.91,Default,Amane,0,0,0,,Oh... sorry! That must have bothered you.
+Dialogue: 0,0:06:08.91,0:06:11.10,Default,Mahiru,0,0,0,,Huh? N-No, not at all!
+Dialogue: 0,0:06:11.53,0:06:15.56,Default,Chitose,0,0,0,,Mahirun's more like, "Amane-kun cozies up \Nto me when he's half-asleep?"
+Dialogue: 0,0:06:15.56,0:06:17.10,Default,Chitose,0,0,0,,I bet that's what she thought.
+Dialogue: 0,0:06:17.10,0:06:18.39,Default,Mahiru,0,0,0,,Chitose-san!
+Dialogue: 0,0:06:18.75,0:06:23.65,Default,Chitose,0,0,0,,But I wonder, when did you start calling\N each other by your first names, you two?
+Dialogue: 0,0:06:24.08,0:06:25.63,Default,Amane,0,0,0,,Chitose!
+Dialogue: 0,0:06:25.63,0:06:27.26,Default,Chitose,0,0,0,,Don't look at me like that!
+Dialogue: 0,0:06:27.26,0:06:29.34,Default,Chitose,0,0,0,,You're the one who just slipped up.
+Dialogue: 0,0:06:31.49,0:06:34.01,Default,Amane,0,0,0,,You better not have pulled \Nany pranks while I was sleeping.
+Dialogue: 0,0:06:34.01,0:06:35.83,Default,Chitose,0,0,0,,I didn't prank you at all.
+Dialogue: 0,0:06:37.66,0:06:39.83,Default,Chitose,0,0,0,,What troubles you, my lad?
+Dialogue: 0,0:06:40.32,0:06:42.75,Default,Amane,0,0,0,,Maybe not a prank, \Nbut I bet you did something.
+Dialogue: 0,0:06:42.75,0:06:46.24,Default,Chitose,0,0,0,,Not {\i1}me{\i0}! I didn't do a single thing.
+Dialogue: 0,0:06:46.24,0:06:48.04,Default,Amane,0,0,0,,Is that the truth?
+Dialogue: 0,0:06:48.04,0:06:50.58,Default,Amane,0,0,0,,Mahiru, did she really do nothing?
+Dialogue: 0,0:06:51.84,0:06:55.03,Default,Mahiru,0,0,0,,Chitose-san didn't do anything.
+Dialogue: 0,0:06:58.05,0:06:59.23,Default,Amane,0,0,0,,Oh, this looks good!
+Dialogue: 0,0:06:59.99,0:07:01.73,Default,Amane,0,0,0,,Mahiru, how's it taste?
+Dialogue: 0,0:07:01.73,0:07:05.47,Default,Mahiru,0,0,0,,It's fine. There's nothing weird in it.
+Dialogue: 0,0:07:05.47,0:07:06.65,Default,Mahiru,0,0,0,,I tasted it myself.
+Dialogue: 0,0:07:07.23,0:07:08.03,Default,Amane,0,0,0,,Very well.
+Dialogue: 0,0:07:08.03,0:07:10.80,Default,Chitose,0,0,0,,When are you gonna stop suspecting me?
+Dialogue: 0,0:07:10.80,0:07:12.70,Default,Chitose,0,0,0,,I cooked fair and square today.
+Dialogue: 0,0:07:13.16,0:07:14.87,Default,Amane,0,0,0,,Then thank you for the food.
+Dialogue: 0,0:07:22.68,0:07:23.46,Default,Amane,0,0,0,,Yum!
+Dialogue: 0,0:07:28.28,0:07:30.80,Default,Chitose,0,0,0,,I bet this will make Ikkun happy!
+Dialogue: 0,0:07:30.80,0:07:33.59,Default,Chitose,0,0,0,,Mahirun, thanks for the cooking lesson!
+Dialogue: 0,0:07:34.00,0:07:36.51,Default,Mahiru,0,0,0,,You're welcome. I enjoyed doing it.
+Dialogue: 0,0:07:36.91,0:07:39.02,Default,Chitose,0,0,0,,Thanks for having me over.
+Dialogue: 0,0:07:43.94,0:07:45.52,Default,Mahiru,0,0,0,,I... should apologize.
+Dialogue: 0,0:07:46.06,0:07:46.81,Default,Amane,0,0,0,,Huh?
+Dialogue: 0,0:07:47.32,0:07:48.83,Default,Mahiru,0,0,0,,For the prank.
+Dialogue: 0,0:07:48.83,0:07:49.74,Default,Amane,0,0,0,,The prank?
+Dialogue: 0,0:07:50.25,0:07:54.32,Default,Mahiru,0,0,0,,Chitose-san didn't do anything, but I...
+Dialogue: 0,0:07:54.72,0:07:56.28,Default,Amane,0,0,0,,You, Mahiru?!
+Dialogue: 0,0:07:56.89,0:07:59.41,Default,Mahiru,0,0,0,,I... squished your cheeks.
+Dialogue: 0,0:08:00.20,0:08:03.31,Default,Amane,0,0,0,,Does that even count as a prank?
+Dialogue: 0,0:08:03.31,0:08:09.67,Default,Mahiru,0,0,0,,A-And then I watched you sleep \Nand ruffled your hair a bit.
+Dialogue: 0,0:08:10.03,0:08:12.30,Default,Amane,0,0,0,,You sure like doing that, Mahiru.
+Dialogue: 0,0:08:12.30,0:08:17.13,Default,Mahiru,0,0,0,,Y-Yes. You look so cute \Nwhen sleeping, I couldn't help...
+Dialogue: 0,0:08:17.13,0:08:17.89,Default,Amane,0,0,0,,Couldn't help...?
+Dialogue: 0,0:08:17.89,0:08:20.93,Default,Mahiru,0,0,0,,...but to squish your cheeks a whole lot!
+Dialogue: 0,0:08:21.31,0:08:24.56,Default,Amane,0,0,0,,Is poking a guy's cheeks \Nreally that much fun?
+Dialogue: 0,0:08:25.30,0:08:26.61,Default,Mahiru,0,0,0,,Why, yes, it is.
+Dialogue: 0,0:08:26.61,0:08:29.30,Default,Amane,0,0,0,,Well, I guess that makes sense.
+Dialogue: 0,0:08:29.87,0:08:32.69,Default,Amane,0,0,0,,It feels nice to squeeze your cheeks, too.
+Dialogue: 0,0:08:42.70,0:08:45.03,Italics,Amane,0,0,0,,She's, like, totally relaxed.
+Dialogue: 0,0:08:51.04,0:08:53.29,Default,Mahiru,0,0,0,,We're going out tomorrow.
+Dialogue: 0,0:08:53.29,0:08:53.92,Default,Amane,0,0,0,,Yeah.
+Dialogue: 0,0:08:55.88,0:08:57.34,Default,Mahiru,0,0,0,,Amane-kun?
+Dialogue: 0,0:08:58.13,0:09:03.98,Default,Mahiru,0,0,0,,Which do you prefer, \Nprim and proper or a more mature look?
+Dialogue: 0,0:09:03.98,0:09:05.10,Default,Amane,0,0,0,,What?
+Dialogue: 0,0:09:06.04,0:09:09.00,Default,Amane,0,0,0,,Oh. Hmm...
+Dialogue: 0,0:09:10.28,0:09:12.48,Default,Amane,0,0,0,,I think it depends on the person.
+Dialogue: 0,0:09:13.26,0:09:15.40,Default,Mahiru,0,0,0,,But I'm asking what {\i1}you{\i0} like, Amane-kun.
+Dialogue: 0,0:09:15.77,0:09:18.10,Default,Amane,0,0,0,,I'm not sure what to say.
+Dialogue: 0,0:09:22.61,0:09:26.12,Default,Amane,0,0,0,,Prim and proper would fit your \Ncharacter and look cute on you,
+Dialogue: 0,0:09:26.12,0:09:29.85,Default,Amane,0,0,0,,but a mature style would \Nhighlight how pretty you are.
+Dialogue: 0,0:09:30.30,0:09:33.90,Default,Mahiru,0,0,0,,Y-You really have no trouble \Nsaying things like that.
+Dialogue: 0,0:09:34.32,0:09:35.38,Default,Mahiru,0,0,0,,Boy...
+Dialogue: 0,0:09:35.84,0:09:38.70,Default,Amane,0,0,0,,Well, you're the one who asked, Mahiru.
+Dialogue: 0,0:09:41.21,0:09:42.89,Default,Amane,0,0,0,,Okay, prim and proper.
+Dialogue: 0,0:09:43.70,0:09:44.98,Default,Mahiru,0,0,0,,Then that's what I'll go with.
+Dialogue: 0,0:09:45.99,0:09:50.27,Default,Mahiru,0,0,0,,I'll break through that composure \Nand leave you weak in the knees.
+Dialogue: 0,0:09:50.27,0:09:53.11,Default,Amane,0,0,0,,That doesn't sound \Nvery prim and proper to me.
+Dialogue: 0,0:09:53.55,0:09:56.49,Default,Mahiru,0,0,0,,In that case, I'll just try to \Nleave you speechless.
+Dialogue: 0,0:09:56.83,0:09:59.03,Default,Amane,0,0,0,,Try not to bother me too much, okay?
+Dialogue: 0,0:09:59.92,0:10:01.95,Default,Mahiru,0,0,0,,I'll bother you as much as possible.
+Dialogue: 0,0:10:12.52,0:10:14.96,Default,Mahiru,0,0,0,,Good morning, Amane-kun.
+Dialogue: 0,0:10:17.72,0:10:19.59,Default,Amane,0,0,0,,You put your hair up today?
+Dialogue: 0,0:10:20.02,0:10:23.34,Default,Mahiru,0,0,0,,I didn't want it to get in the way \Nif we're playing with cats.
+Dialogue: 0,0:10:23.98,0:10:24.97,Default,Mahiru,0,0,0,,Does it look okay?
+Dialogue: 0,0:10:24.97,0:10:26.48,Default,Amane,0,0,0,,Yeah, looks great on you.
+Dialogue: 0,0:10:26.83,0:10:28.96,Default,Mahiru,0,0,0,,Well, I hope so, but...
+Dialogue: 0,0:10:28.96,0:10:32.44,Default,Mahiru,0,0,0,,U-Um, if you're going to laugh, \Ngo ahead and do it.
+Dialogue: 0,0:10:33.51,0:10:34.61,Default,Amane,0,0,0,,Why would you say that?
+Dialogue: 0,0:10:35.01,0:10:36.74,Default,Mahiru,0,0,0,,I bet you think I overdid it.
+Dialogue: 0,0:10:37.34,0:10:41.20,Default,Amane,0,0,0,,No, I don't. I do think \Nyou look cuter than usual, though.
+Dialogue: 0,0:10:42.65,0:10:47.95,Default,Mahiru,0,0,0,,You must have had a fine upbringing \Nif you can say something like that so lightly.
+Dialogue: 0,0:10:48.46,0:10:49.92,Default,Amane,0,0,0,,Yeah, I guess so.
+Dialogue: 0,0:10:50.53,0:10:53.62,Default,Amane,0,0,0,,Of course, I'm not just trying to \Nflatter you, so don't worry.
+Dialogue: 0,0:10:53.62,0:10:55.05,Default,Mahiru,0,0,0,,I'll take your word for it.
+Dialogue: 0,0:10:55.66,0:10:57.42,Default,Mahiru,0,0,0,,Shall we get going, then?
+Dialogue: 0,0:10:58.57,0:10:59.98,Default,Amane,0,0,0,,May I take your hand?
+Dialogue: 0,0:11:04.73,0:11:06.48,Default,Customer,0,0,0,,They're so cute!
+Dialogue: 0,0:11:06.48,0:11:08.36,Default,Customer,0,0,0,,Look at this one over here!
+Dialogue: 0,0:11:07.77,0:11:10.38,Default,text,0,0,0,,{\an8\bord2\shad0\fnArial\fs12\c&H323535&\3c&HF1F4F6&\b1\fad(1,221)\fax-0.15\frz9.589\move(614,132,670,132)}Leo-kun
+Dialogue: 0,0:11:07.77,0:11:10.64,Default,text,0,0,0,,{\an8\bord2\shad0\fnArial\fs12\move(40,16,106,16)\frz19.32\c&H323535&\3c&HFFFFFF&\b1\fad(1,221)\fax-0.15}Powder-chan
+Dialogue: 0,0:11:07.77,0:11:10.64,Default,text,0,0,0,,{\an8\bord2\shad0\fnArial\fs12\c&H323535&\3c&HF1F4F6&\b1\fad(1,221)\fax-0.15\move(38,254,108,254)\frz9.589}Amber-kun
+Dialogue: 0,0:11:07.77,0:11:10.64,Default,text,0,0,0,,{\an8\bord2\shad0\fnArial\fs12\c&H323535&\3c&HF1F4F6&\b1\fad(1,221)\fax-0.15\frz9.589\move(207,223,276,223)}Bell-chan
+Dialogue: 0,0:11:07.77,0:11:10.64,Default,text,0,0,0,,{\an8\bord2\shad0\fnArial\fs12\c&H323535&\3c&HF1F4F6&\b1\fad(1,221)\fax-0.15\frz9.589\move(394,178,458,178)}Silk-chan
+Dialogue: 0,0:11:11.31,0:11:13.52,Default,Mahiru,0,0,0,,The cats! Look at them!
+Dialogue: 0,0:11:13.82,0:11:15.66,Default,Mahiru,0,0,0,,They're all so cute!
+Dialogue: 0,0:11:15.66,0:11:17.90,Default,Amane,0,0,0,,You're right. They're really cute.
+Dialogue: 0,0:11:19.58,0:11:23.16,Default,Mahiru,0,0,0,,This one is named Silk.
+Dialogue: 0,0:11:21.95,0:11:23.16,Default,text,0,0,0,,{\an8\bord2\shad0\fnArial\fs32\c&H323535&\3c&HF1F4F6&\b1\fad(221,1)\fax-0.15\frz0.2897\move(344,5,344,5)}Silk-chan
+Dialogue: 0,0:11:23.16,0:11:25.15,Default,Mahiru,0,0,0,,Silk-chan?
+Dialogue: 0,0:11:27.54,0:11:29.87,Default,text,0,0,0,,{\an8\bord0\shad0\fnArial\fs10.5\c&H323535&\3c&HF1F4F6&\b1\fad(1,221)\fax-0.15\blur0.75\pos(94,29)}Ten-kun
+Dialogue: 0,0:11:27.54,0:11:29.87,Default,text,0,0,0,,{\an8\bord0\shad0\fnArial\fs10.5\c&H323535&\3c&HF1F4F6&\b1\fad(1,221)\fax-0.15\blur0.75\pos(94,168)}Leo-kun
+Dialogue: 0,0:11:30.35,0:11:34.79,Default,Amane,0,0,0,,That doesn't mean she doesn't like you. \NShe was just done saying "hello."
+Dialogue: 0,0:11:34.79,0:11:37.01,Default,Mahiru,0,0,0,,Do you really think so?
+Dialogue: 0,0:11:37.01,0:11:39.64,Default,Amane,0,0,0,,Yeah. Give them some time to get used to you.
+Dialogue: 0,0:11:40.35,0:11:41.94,Default,Amane,0,0,0,,Want to grab a seat for now?
+Dialogue: 0,0:11:41.94,0:11:42.89,Default,Mahiru,0,0,0,,Sure.
+Dialogue: 0,0:11:44.50,0:11:46.26,Default,Mahiru,0,0,0,,Oh my gosh, it's so cute!
+Dialogue: 0,0:11:47.51,0:11:48.49,Default,Amane,0,0,0,,What's wrong?
+Dialogue: 0,0:11:48.97,0:11:50.68,Default,Mahiru,0,0,0,,It's too cute to drink.
+Dialogue: 0,0:11:52.81,0:11:54.44,Default,Mahiru,0,0,0,,Please don't laugh at me!
+Dialogue: 0,0:11:54.44,0:11:57.79,Default,Amane,0,0,0,,It's just such a cute thing \Nto be worried about.
+Dialogue: 0,0:11:57.79,0:12:01.65,Default,Mahiru,0,0,0,,B-But they made such a cute kitty.
+Dialogue: 0,0:12:01.65,0:12:04.38,Default,Mahiru,0,0,0,,It would be a waste to ruin it.
+Dialogue: 0,0:12:04.38,0:12:06.76,Default,Amane,0,0,0,,It would be a waste to not drink it.
+Dialogue: 0,0:12:16.65,0:12:18.75,Default,Mahiru,0,0,0,,Wh-Why are you laughing at me?
+Dialogue: 0,0:12:18.75,0:12:23.01,Default,Amane,0,0,0,,Well, you got a white mustache.
+Dialogue: 0,0:12:23.01,0:12:25.30,Default,Mahiru,0,0,0,,Hey! You took a picture, didn't you?!
+Dialogue: 0,0:12:25.66,0:12:28.56,Default,Amane,0,0,0,,Oh, sorry. Do you want me to erase it?
+Dialogue: 0,0:12:28.56,0:12:31.14,Default,Mahiru,0,0,0,,Y-You want to save me looking this silly?
+Dialogue: 0,0:12:31.71,0:12:33.56,Default,Amane,0,0,0,,It was too cute to pass up.
+Dialogue: 0,0:12:35.30,0:12:37.47,Default,Mahiru,0,0,0,,Okay, but only just the one.
+Dialogue: 0,0:12:40.22,0:12:42.98,Default,Mahiru,0,0,0,,Look at this! It climbed up on my lap!
+Dialogue: 0,0:12:42.98,0:12:46.91,Default,Amane,0,0,0,,That's great. Look, it wants to be pet.
+Dialogue: 0,0:12:46.91,0:12:47.90,Default,Mahiru,0,0,0,,Sure!
+Dialogue: 0,0:12:50.28,0:12:51.68,Default,Mahiru,0,0,0,,By the way...
+Dialogue: 0,0:12:52.71,0:12:55.62,Default,Mahiru,0,0,0,,When did you and Silk-chan get so friendly?
+Dialogue: 0,0:12:55.62,0:12:58.75,Default,Amane,0,0,0,,I don't know why, \Nbut she came over to be pet.
+Dialogue: 0,0:12:59.38,0:13:02.67,Default,Mahiru,0,0,0,,Does that mean you like Silk-chan, then?
+Dialogue: 0,0:13:02.67,0:13:06.34,Default,Amane,0,0,0,,Yeah, maybe because she's like you. \NShe's so cuddly.
+Dialogue: 0,0:13:06.75,0:13:07.72,Default,Mahiru,0,0,0,,Like me?
+Dialogue: 0,0:13:07.72,0:13:14.35,Default,Amane,0,0,0,,Well, you were a little stuffy at first. \NKind of uptight and unfriendly.
+Dialogue: 0,0:13:14.90,0:13:17.48,Default,Amane,0,0,0,,Once you got used to me, \Nyou were a lot more affectionate.
+Dialogue: 0,0:13:18.32,0:13:20.22,Default,Mahiru,0,0,0,,I'm not a cat, you know.
+Dialogue: 0,0:13:20.22,0:13:22.94,Default,Mahiru,0,0,0,,And I don't cozy up to just anyone.
+Dialogue: 0,0:13:23.46,0:13:26.48,Default,Amane,0,0,0,,Well, you are still very cautious, though.
+Dialogue: 0,0:13:26.48,0:13:28.32,Default,Mahiru,0,0,0,,Have you been treating me like a cat?
+Dialogue: 0,0:13:28.32,0:13:31.08,Default,Amane,0,0,0,,No way, no way. Right?
+Dialogue: 0,0:13:33.08,0:13:35.47,Default,Mahiru,0,0,0,,You {\i1}have{\i0} been treating me like a cat.
+Dialogue: 0,0:13:45.75,0:13:46.97,Default,Amane,0,0,0,,Wanna take a look?
+Dialogue: 0,0:13:47.74,0:13:51.39,Default,Amane,0,0,0,,See that dress? \NI bet it would look good on you.
+Dialogue: 0,0:13:51.39,0:13:53.85,Default,Mahiru,0,0,0,,Do you like this kind of thing?
+Dialogue: 0,0:13:54.58,0:13:55.88,Default,Amane,0,0,0,,Well, I guess.
+Dialogue: 0,0:13:56.53,0:14:00.81,Default,Amane,0,0,0,,You look good in anything, Mahiru, \Nbut I think this would look great on you.
+Dialogue: 0,0:14:01.64,0:14:03.61,Default,Mahiru,0,0,0,,Then I'll go try it on.
+Dialogue: 0,0:14:10.95,0:14:13.24,Default,Girl A,0,0,0,,Hey, there. All by yourself?
+Dialogue: 0,0:14:13.93,0:14:14.74,Default,Amane,0,0,0,,Well...
+Dialogue: 0,0:14:16.16,0:14:18.42,Default,Girl B,0,0,0,,If you're free, wanna go somewhere?
+Dialogue: 0,0:14:18.42,0:14:20.38,Default,Amane,0,0,0,,Actually, I'm waiting for someone.
+Dialogue: 0,0:14:21.69,0:14:23.44,Default,Mahiru,0,0,0,,Sorry to take so long.
+Dialogue: 0,0:14:23.44,0:14:25.06,Default,Amane,0,0,0,,O-Oh.
+Dialogue: 0,0:14:25.06,0:14:26.42,Default,Mahiru,0,0,0,,Please excuse us.
+Dialogue: 0,0:14:26.42,0:14:27.86,Default,Mahiru,0,0,0,,Shall we go?
+Dialogue: 0,0:14:27.86,0:14:28.89,Default,Amane,0,0,0,,Uh...
+Dialogue: 0,0:14:38.31,0:14:39.04,Default,Amane,0,0,0,,Now!
+Dialogue: 0,0:14:39.04,0:14:39.77,Default,Mahiru,0,0,0,,Right!
+Dialogue: 0,0:14:48.04,0:14:49.75,Default,Amane,0,0,0,,You did great, Mahiru.
+Dialogue: 0,0:14:50.11,0:14:53.38,Default,Mahiru,0,0,0,,Um, will you accept this from me?
+Dialogue: 0,0:14:53.38,0:14:54.62,Default,Amane,0,0,0,,Huh? For me?
+Dialogue: 0,0:14:54.62,0:14:57.00,Default,Mahiru,0,0,0,,You gave me the ones before, and...
+Dialogue: 0,0:14:57.00,0:15:00.29,Default,Mahiru,0,0,0,,you seemed to like Silk-chan so much.
+Dialogue: 0,0:15:02.01,0:15:05.73,Default,Mahiru,0,0,0,,But I know you're a boy. \NMaybe you don't like stuffed animals?
+Dialogue: 0,0:15:05.73,0:15:07.86,Default,Amane,0,0,0,,No, that isn't it.
+Dialogue: 0,0:15:07.86,0:15:11.59,Default,Amane,0,0,0,,I just don't think I should take it \Nwhen you tried so hard to get it.
+Dialogue: 0,0:15:12.06,0:15:14.83,Default,Mahiru,0,0,0,,But you're the reason I was trying!
+Dialogue: 0,0:15:14.83,0:15:19.98,Default,Mahiru,0,0,0,,Oh! That is, I don't mean to \Nsound so pushy...
+Dialogue: 0,0:15:21.11,0:15:23.38,Default,Amane,0,0,0,,Okay, I'll take it and put it in my room.
+Dialogue: 0,0:15:23.38,0:15:27.61,Default,Amane,0,0,0,,I can't put it right next to my \Npillow like you do, though.
+Dialogue: 0,0:15:29.14,0:15:32.24,Default,Mahiru,0,0,0,,I wish you would forget all about that!
+Dialogue: 0,0:15:33.87,0:15:35.13,Default,Amane,0,0,0,,I'll take good care of it.
+Dialogue: 0,0:15:35.13,0:15:36.49,Default,Yuta,0,0,0,,Shiina-san?
+Dialogue: 0,0:15:38.76,0:15:40.02,Default,Mahiru,0,0,0,,Kadowaki-san?
+Dialogue: 0,0:15:40.02,0:15:42.94,Default,Yuta,0,0,0,,Um... did I interrupt something?
+Dialogue: 0,0:15:42.94,0:15:44.50,Default,Mahiru,0,0,0,,No, not at all.
+Dialogue: 0,0:15:45.32,0:15:48.13,Default,Yuta,0,0,0,,I had no idea you had a boyfriend.
+Dialogue: 0,0:15:49.10,0:15:51.34,Default,Mahiru,0,0,0,,He isn't actually my boyfriend or anything.
+Dialogue: 0,0:15:52.30,0:15:54.59,Default,Yuta,0,0,0,,But it totally looks like...
+Dialogue: 0,0:15:57.10,0:15:58.44,Default,Yuta,0,0,0,,Fujimiya?
+Dialogue: 0,0:15:59.77,0:16:04.86,Default,Yuta,0,0,0,,Huh. So you live next door and \Nyou've known each other since last year?
+Dialogue: 0,0:16:04.86,0:16:05.56,Default,Amane,0,0,0,,Yeah.
+Dialogue: 0,0:16:05.94,0:16:10.24,Default,Yuta,0,0,0,,Well, that's fine, \Nbut it's just like Itsuki said.
+Dialogue: 0,0:16:10.24,0:16:11.19,Default,Amane,0,0,0,,About what?
+Dialogue: 0,0:16:11.48,0:16:14.55,Default,Yuta,0,0,0,,He said you look really cool \Nwhen you get dressed up.
+Dialogue: 0,0:16:14.55,0:16:16.41,Default,Yuta,0,0,0,,You really nail this look.
+Dialogue: 0,0:16:16.87,0:16:19.63,Default,Amane,0,0,0,,That sounds like sarcasm \Ncoming from you, Kadowaki.
+Dialogue: 0,0:16:19.63,0:16:21.87,Default,Yuta,0,0,0,,That's not how I meant it!
+Dialogue: 0,0:16:21.87,0:16:25.71,Default,Yuta,0,0,0,,So, you knew he could \Nlook like this, Shiina-san?
+Dialogue: 0,0:16:25.71,0:16:27.35,Default,Mahiru,0,0,0,,Well, I just...
+Dialogue: 0,0:16:28.64,0:16:29.63,Default,Mahiru,0,0,0,,Yes.
+Dialogue: 0,0:16:29.63,0:16:31.55,Default,Yuta,0,0,0,,I'm starting to get it now.
+Dialogue: 0,0:16:32.03,0:16:33.68,Default,Yuta,0,0,0,,I bet it's tough for you, too, Shiina-san.
+Dialogue: 0,0:16:36.40,0:16:38.68,Default,Yuta,0,0,0,,I didn't think you'd be \Nso easy to figure out.
+Dialogue: 0,0:16:41.51,0:16:42.98,Default,Mahiru,0,0,0,,Um, Kadowaki-san?
+Dialogue: 0,0:16:42.98,0:16:43.69,Default,Yuta,0,0,0,,Hmm?
+Dialogue: 0,0:16:44.54,0:16:47.74,Default,Mahiru,0,0,0,,I'd prefer if you didn't tell \Nanyone else about this.
+Dialogue: 0,0:16:47.74,0:16:50.98,Default,Mahiru,0,0,0,,Th-That we're close and all. It's kind of...
+Dialogue: 0,0:16:50.98,0:16:54.57,Default,Yuta,0,0,0,,Sure. You don't have to worry about that.
+Dialogue: 0,0:16:55.31,0:16:58.28,Default,Yuta,0,0,0,,I don't go around spreading \Npeople's secrets for fun.
+Dialogue: 0,0:16:59.26,0:17:02.49,Default,Yuta,0,0,0,,And I don't want to screw things up \Nwith Fujimiya over something dumb,
+Dialogue: 0,0:17:02.49,0:17:04.83,Default,Yuta,0,0,0,,especially now that we're friends.
+Dialogue: 0,0:17:12.60,0:17:13.92,Default,Amane,0,0,0,,I'm really sorry.
+Dialogue: 0,0:17:14.51,0:17:16.18,Default,Mahiru,0,0,0,,What makes you say that?
+Dialogue: 0,0:17:16.58,0:17:19.20,Default,Amane,0,0,0,,Since Kadowaki found out about us.
+Dialogue: 0,0:17:19.79,0:17:21.94,Default,Mahiru,0,0,0,,That was out of your control.
+Dialogue: 0,0:17:21.94,0:17:24.40,Default,Mahiru,0,0,0,,And it turned out all right, anyway.
+Dialogue: 0,0:17:24.40,0:17:26.94,Default,Mahiru,0,0,0,,It seemed like he was understanding.
+Dialogue: 0,0:17:27.62,0:17:32.40,Default,Mahiru,0,0,0,,There was no guarantee \Nwe wouldn't be spotted anyway.
+Dialogue: 0,0:17:30.94,0:17:34.44,Default,text,0,0,0,,{\an8\fs26.25\frz12.08\pos(348,71)\bord2\blur2\shad0\c&H0F76C2&\frx2\fry0\fax-.2}Platform 2      First Departure {\c&H00C736&}18:31      {\c&H0F76C2&}Express
+Dialogue: 0,0:17:30.94,0:17:34.44,Default,text,0,0,0,,{\an8\fs26.25\bord2\blur2\shad0\c&H0F76C2&\frz10.94\frx2\fry358\fax-.2\pos(343,174)}Platform 2      Next Departure {\c&H00C736&}18:40      {\c&H0F76C2&}Express
+Dialogue: 0,0:17:32.40,0:17:34.44,Default,Mahiru,0,0,0,,I knew it was a possibility.
+Dialogue: 0,0:17:35.09,0:17:37.64,Default,Amane,0,0,0,,I'm sure glad it was Kadowaki, though.
+Dialogue: 0,0:17:37.64,0:17:39.07,Default,Amane,0,0,0,,He really is a good guy.
+Dialogue: 0,0:17:39.50,0:17:43.78,Default,Mahiru,0,0,0,,You seem to think \Nvery highly of him, Amane-kun.
+Dialogue: 0,0:17:43.78,0:17:44.99,Default,Amane,0,0,0,,Well, yeah.
+Dialogue: 0,0:17:44.99,0:17:48.50,Default,Amane,0,0,0,,Since we started talking more, \Nhe really seems pretty cool.
+Dialogue: 0,0:17:48.50,0:17:50.77,Default,Amane,0,0,0,,I can get why he's so popular.
+Dialogue: 0,0:17:50.77,0:17:52.84,Default,Amane,0,0,0,,He's as good of a person \Nas he is good looking.
+Dialogue: 0,0:17:53.31,0:17:55.84,Default,Mahiru,0,0,0,,I guess that makes you \Nbirds of a feather, then.
+Dialogue: 0,0:17:56.34,0:17:58.59,Default,Amane,0,0,0,,I doubt I'm that kind of bird, though.
+Dialogue: 0,0:17:59.40,0:18:01.35,Default,Mahiru,0,0,0,,There you go, putting yourself down again.
+Dialogue: 0,0:18:01.97,0:18:03.17,Default,Amane,0,0,0,,It's a bad habit.
+Dialogue: 0,0:18:03.17,0:18:06.62,Default,Mahiru,0,0,0,,How did you even pick that habit up? Hmph.
+Dialogue: 0,0:18:07.60,0:18:08.09,Default,text,0,0,0,,{\an8\fs20.25\bord2\blur2\shad0\c&H0F76C2&\frz11.28\pos(347,213)\fad(1,278)\fax-.2}The train is arriving. Please be careful...
+Dialogue: 0,0:18:07.60,0:18:09.60,Default,text,0,0,0,,{\an8\fs25.25\bord2\blur2\shad0\c&H0F76C2&\pos(334,108)\frx2\fry0\frz13.16\fax-.2}Platform 2      First Departure {\c&H00C736&}18:31      {\c&H0F76C2&}Express
+Dialogue: 0,0:18:08.14,0:18:12.86,Italics Top,Announcer,0,0,0,,The train for Tama Center will be arriving \Non platform two momentarily.
+Dialogue: 0,0:18:08.27,0:18:09.09,Default,,0,0,0,,{\an8\fs20.25\bord2\blur2\shad0\c&H0F76C2&\frz11.28\pos(347,213)\fad(192,278)\fax-.2}The train is arriving. Please be careful...
+Dialogue: 0,0:18:09.31,0:18:09.59,Default,,0,0,0,,{\an8\fs20.25\bord2\blur2\shad0\c&H0F76C2&\frz11.28\pos(347,213)\fad(195,1)\fax-.2}The train is arriving. Please be careful...
+Dialogue: 0,0:18:10.16,0:18:12.86,Default,Mahiru,0,0,0,,If you don't want to say it, \Nyou don't have to.
+Dialogue: 0,0:18:13.46,0:18:17.03,Italics Top,Announcer,0,0,0,,Please wait behind the doors.
+Dialogue: 0,0:18:13.46,0:18:17.71,Default,Mahiru,0,0,0,,But please don't forget \Nthat I accept you, okay?
+Dialogue: 0,0:18:18.65,0:18:19.70,Default,Amane,0,0,0,,Mm-hmm.
+Dialogue: 0,0:18:21.06,0:18:26.32,Default,Mahiru,0,0,0,,If it comes to it, I'll overwhelm you \Nwith praise until you beg me to stop.
+Dialogue: 0,0:18:26.32,0:18:27.96,Default,Amane,0,0,0,,Ooh, scary!
+Dialogue: 0,0:18:28.50,0:18:32.71,Default,Amane,0,0,0,,But seriously, I wouldn't be able to \Ntake it if you did that, so please don't.
+Dialogue: 0,0:18:33.51,0:18:35.96,Default,Mahiru,0,0,0,,Then have a little more \Nconfidence in yourself.
+Dialogue: 0,0:18:39.53,0:18:40.48,Default,Amane,0,0,0,,Thanks.
+Dialogue: 0,0:18:41.47,0:18:41.91,Default,text,0,0,0,,{\an8\fs20.25\bord2\blur2\shad0\c&H0F76C2&\frz11.28\pos(347,213)\fad(1,278)\fax-.2}The train is arriving. Please be careful...
+Dialogue: 0,0:18:41.47,0:18:43.47,Default,text,0,0,0,,{\an8\fs25.25\bord2\blur2\shad0\c&H0F76C2&\pos(334,108)\frx2\fry0\frz13.16\fax-.2}Platform 2      First Departure {\c&H00C736&}18:31      {\c&H0F76C2&}Express
+Dialogue: 0,0:18:42.16,0:18:42.96,Default,,0,0,0,,{\an8\fs20.25\bord2\blur2\shad0\c&H0F76C2&\frz11.28\pos(347,213)\fad(192,278)\fax-.2}The train is arriving. Please be careful...
+Dialogue: 0,0:18:43.18,0:18:43.46,Default,,0,0,0,,{\an8\fs20.25\bord2\blur2\shad0\c&H0F76C2&\frz11.28\pos(347,213)\fad(195,1)\fax-.2}The train is arriving. Please be careful...
+Dialogue: 0,0:18:43.47,0:18:45.97,Default,text,0,0,0,,{\an8\b1\fs48\bord2\shad0\move(181,67,181,140)\3c&H7039D2&\blur2\frx10\fry10\frz343.9\fax0.15}Karaoke
+Dialogue: 0,0:18:43.47,0:18:45.97,Default,text,0,0,0,,{\an8\b1\fs28\bord2\shad0\3c&H7039D2&\blur2\frx10\fry10\frz343.9\fax0.15\move(418,174,418,246)}Big Reco
+Dialogue: 0,0:18:46.62,0:18:50.23,Default,Yuta,0,0,0,,Well then, I wouldn't mind \Nhearing a little more about yesterday.
+Dialogue: 0,0:18:50.58,0:18:53.78,Default,Amane,0,0,0,,It isn't the kind of relationship \Nyou think it is, Kadowaki.
+Dialogue: 0,0:18:53.78,0:18:56.99,Default,Yuta,0,0,0,,I get the feeling it isn't exactly \Nhow you're describing it, either.
+Dialogue: 0,0:18:57.28,0:18:58.74,Default,Amane,0,0,0,,Oh, come on.
+Dialogue: 0,0:18:58.74,0:19:03.16,Default,Itsuki,0,0,0,,Yeah, it's a little more than friendship \Nbetween Amane and Shiina-san.
+Dialogue: 0,0:19:03.82,0:19:07.37,Default,Itsuki,0,0,0,,Especially when he has her over \Nto make dinner every day.
+Dialogue: 0,0:19:07.37,0:19:08.25,Default,Yuta,0,0,0,,Huh?
+Dialogue: 0,0:19:08.25,0:19:09.33,Default,Amane,0,0,0,,Itsuki!
+Dialogue: 0,0:19:09.33,0:19:11.47,Default,Itsuki,0,0,0,,Hey, he would've figured it out anyway.
+Dialogue: 0,0:19:11.47,0:19:13.13,Default,Itsuki,0,0,0,,It's better to just get it out of the way.
+Dialogue: 0,0:19:15.58,0:19:16.63,Default,Amane,0,0,0,,What now?
+Dialogue: 0,0:19:17.61,0:19:18.63,Default,Yuta,0,0,0,,Like a wife-in-training?
+Dialogue: 0,0:19:18.63,0:19:24.26,Default,Amane,0,0,0,,N-No way! We live alone and it's easier to \Nsplit the cost and share meals. That's it!
+Dialogue: 0,0:19:24.90,0:19:26.37,Default,Itsuki,0,0,0,,There you have it.
+Dialogue: 0,0:19:26.37,0:19:28.18,Default,Yuta,0,0,0,,Not very convincing.
+Dialogue: 0,0:19:28.18,0:19:30.14,Default,Amane,0,0,0,,You, too, Kadowaki?
+Dialogue: 0,0:19:30.51,0:19:34.90,Default,Yuta,0,0,0,,Usually, girls don't stay with guys \Nthey aren't interested in,
+Dialogue: 0,0:19:35.28,0:19:38.65,Default,Yuta,0,0,0,,and they won't go into a guy's room \Nunless they're totally comfortable around him.
+Dialogue: 0,0:19:38.65,0:19:39.86,Default,Itsuki,0,0,0,,This guy gets it!
+Dialogue: 0,0:19:40.19,0:19:43.71,Default,Yuta,0,0,0,,So be honest, Fujimiya. \NDon't you actually like Shiina-san?
+Dialogue: 0,0:19:43.71,0:19:45.24,Default,Amane,0,0,0,,Would you give me a break?
+Dialogue: 0,0:19:50.90,0:19:52.78,Default,Amane,0,0,0,,So what if I do like her?
+Dialogue: 0,0:19:57.24,0:19:58.46,Default,Amane,0,0,0,,I'm home.
+Dialogue: 0,0:19:58.46,0:20:00.03,Default,Mahiru,0,0,0,,W-Welcome home!
+Dialogue: 0,0:20:01.01,0:20:02.51,Default,Mahiru,0,0,0,,How was karaoke?
+Dialogue: 0,0:20:03.13,0:20:05.68,Default,Amane,0,0,0,,Kadowaki asked me all sorts of questions.
+Dialogue: 0,0:20:05.68,0:20:07.51,Default,Mahiru,0,0,0,,That sounds exhausting.
+Dialogue: 0,0:20:08.34,0:20:10.27,Default,Amane,0,0,0,,What did you just hide there?
+Dialogue: 0,0:20:10.27,0:20:13.61,Default,Mahiru,0,0,0,,H-Hide? No, I...
+Dialogue: 0,0:20:14.22,0:20:15.44,Default,Mahiru,0,0,0,,You won't get angry?
+Dialogue: 0,0:20:15.44,0:20:17.77,Default,Amane,0,0,0,,Were you doing something \Nthat will make me angry?
+Dialogue: 0,0:20:18.84,0:20:21.19,Default,Mahiru,0,0,0,,That may depend on the circumstances.
+Dialogue: 0,0:20:23.22,0:20:25.20,Default,Amane,0,0,0,,Will you at least tell me what it is?
+Dialogue: 0,0:20:25.86,0:20:29.82,Default,Mahiru,0,0,0,,Well, Shihoko-san sent me \Nsome old pictures of you...
+Dialogue: 0,0:20:29.82,0:20:31.58,Default,Amane,0,0,0,,Is my mom some kind of {\i1}idiot{\i0}?!
+Dialogue: 0,0:20:32.19,0:20:34.96,Default,Mahiru,0,0,0,,Th-There's an explanation for this!
+Dialogue: 0,0:20:35.30,0:20:39.96,Default,Mahiru,0,0,0,,I was talking to Shihoko-san \Nwhen the subject of Children's Day came up,
+Dialogue: 0,0:20:40.46,0:20:44.43,Default,Mahiru,0,0,0,,and when I said, "I bet Amane-kun was \Nreally cute as a child,"
+Dialogue: 0,0:20:44.43,0:20:46.06,Default,Mahiru,0,0,0,,things just happened...
+Dialogue: 0,0:20:46.06,0:20:48.03,Default,Amane,0,0,0,,Wait. Let me check them.
+Dialogue: 0,0:20:48.51,0:20:50.54,Default,Amane,0,0,0,,She better not have sent you anything nasty!
+Dialogue: 0,0:20:55.70,0:20:57.26,Default,Amane,0,0,0,,My dear Mahiru-san,
+Dialogue: 0,0:20:57.26,0:21:00.73,Default,Amane,0,0,0,,you can either hand over the pictures now, \Nor be hounded by me forever.
+Dialogue: 0,0:21:00.73,0:21:01.53,Default,Amane,0,0,0,,Which will it be?
+Dialogue: 0,0:21:30.06,0:21:31.14,Default,Mahiru,0,0,0,,Huh?
+Dialogue: 0,0:21:32.36,0:21:33.64,Default,Amane,0,0,0,,You look so weird!
+Dialogue: 0,0:21:35.80,0:21:39.33,Default,Mahiru,0,0,0,,You push a girl down, \Nput your hands on her face,
+Dialogue: 0,0:21:39.33,0:21:41.20,Default,Mahiru,0,0,0,,and that's all you have to say for yourself?
+Dialogue: 0,0:21:41.63,0:21:44.10,Default,Amane,0,0,0,,Yeah, I'm honestly sorry about that.
+Dialogue: 0,0:21:44.52,0:21:48.08,Default,Mahiru,0,0,0,,I unlocked it. Look as much as you want.
+Dialogue: 0,0:21:48.08,0:21:49.16,Default,Amane,0,0,0,,Thanks.
+Dialogue: 0,0:21:51.03,0:21:54.30,Italics,Amane,0,0,0,,Another second and I might've \Nacted like a real jerk.
+Dialogue: 0,0:21:55.30,0:21:59.28,Default,Mahiru,0,0,0,,You said you wanted to check them. \NAren't you going to look?
+Dialogue: 0,0:21:59.28,0:22:01.44,Default,Amane,0,0,0,,Sorry. I was thinking about something.
+Dialogue: 0,0:22:02.11,0:22:02.80,Default,Mahiru,0,0,0,,Dummy.
+Dialogue: 0,0:22:10.31,0:22:12.76,Italics,,0,0,0,,Outer space is huge
+Dialogue: 0,0:22:12.76,0:22:15.11,Italics,,0,0,0,,But only one of these planets
+Dialogue: 0,0:22:15.11,0:22:17.41,Italics,,0,0,0,,Is our own blue planet, Earth
+Dialogue: 0,0:22:17.41,0:22:19.85,Italics,,0,0,0,,And in that huge world
+Dialogue: 0,0:22:19.85,0:22:22.23,Italics,,0,0,0,,A little message of love
+Dialogue: 0,0:22:22.23,0:22:24.57,Italics,,0,0,0,,Is on its way to you
+Dialogue: 0,0:22:24.57,0:22:26.87,Italics,,0,0,0,,Trying to make its way
+Dialogue: 0,0:22:26.87,0:22:29.76,Italics,,0,0,0,,To you on that little island
+Dialogue: 0,0:22:30.31,0:22:32.71,Italics,,0,0,0,,Ever since we first met
+Dialogue: 0,0:22:32.71,0:22:35.03,Italics,,0,0,0,,There's a lot we've been through
+Dialogue: 0,0:22:35.03,0:22:37.48,Italics,,0,0,0,,All these feelings I have
+Dialogue: 0,0:22:37.48,0:22:39.87,Italics,,0,0,0,,Keep filling more letters, too
+Dialogue: 0,0:22:39.87,0:22:42.21,Italics,,0,0,0,,Before you know it
+Dialogue: 0,0:22:42.21,0:22:44.50,Italics,,0,0,0,,We’ll be singing together
+Dialogue: 0,0:22:44.50,0:22:46.82,Italics,,0,0,0,,Sometimes powerful
+Dialogue: 0,0:22:46.82,0:22:49.14,Italics,,0,0,0,,Sometimes heartbreaking
+Dialogue: 0,0:22:49.14,0:22:51.59,Italics,,0,0,0,,When that song starts ringing out
+Dialogue: 0,0:22:51.59,0:22:53.97,Italics,,0,0,0,,It will be heard far away
+Dialogue: 0,0:22:53.97,0:22:56.31,Italics,,0,0,0,,And that sweet song
+Dialogue: 0,0:22:56.31,0:23:02.19,Italics,,0,0,0,,Will change the world
+Dialogue: 0,0:23:02.19,0:23:05.99,Italics,,0,0,0,,Listen, the one person
+Dialogue: 0,0:23:05.99,0:23:08.28,Italics,,0,0,0,,Who’s dearest to you
+Dialogue: 0,0:23:08.28,0:23:11.61,Italics,,0,0,0,,Is right next to you
+Dialogue: 0,0:23:11.61,0:23:15.35,Italics,,0,0,0,,I just want to send this your way
+Dialogue: 0,0:23:15.35,0:23:17.70,Italics,,0,0,0,,I'm hoping it will reach
+Dialogue: 0,0:23:17.70,0:23:21.04,Italics,,0,0,0,,Please hear my love song
+Dialogue: 0,0:23:21.04,0:23:25.55,Italics,,0,0,0,,Listen
+Dialogue: 0,0:23:25.55,0:23:30.34,Italics,,0,0,0,,Listen
+Dialogue: 0,0:23:30.34,0:23:35.39,Italics,,0,0,0,,Listen
+Dialogue: 0,0:23:35.39,0:23:39.12,Italics,,0,0,0,,Please hear my love song
+
