@@ -39,5 +39,5 @@ wanna pay for my laptop screen replacement? my profile readme has the info you n
 
 ## legal boring stuff
 I'm NOT responsible for chaos people may cause using this software, I'm just a developer, this software only extracts certain "words" from provided content  
-I'm NOT responsible for any illegally obtained content people process through this software
+I'm NOT responsible for any illegally obtained content people process through this software  
 Also this software is protected under GNU General Public License v3.0
