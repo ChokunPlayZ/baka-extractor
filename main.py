@@ -16,7 +16,8 @@ def filter_subtitles(file_path):
         subtitles = f.readlines()
     filtered_subs = []
     for sub in subtitles:
-        if 'idiot' in sub or 'dummy' in sub or 'バカ' in sub:
+        sub_lower = sub.lower()  # Convert subtitle to lowercase
+        if 'idiot' in sub_lower or 'dummy' in sub_lower or 'バカ' in sub_lower:
             filtered_subs.append(sub)
     print(f'Filtered {len(filtered_subs)} subtitles.')
     return filtered_subs
